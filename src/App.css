@@ -29,7 +29,6 @@ body {
   color: #666;
   padding: 0.5em 1.5em;
   border: solid 1px #ccc;
-  border-radius: 1.5em;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -53,8 +52,6 @@ body {
 }
 .accordion-content {
   padding: 1em 1.5em;
+  border: solid 1px #ccc;
+  border-top: none;
 }
-
-
-
-
